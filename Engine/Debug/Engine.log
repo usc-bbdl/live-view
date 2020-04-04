@@ -1,0 +1,17 @@
+﻿  live_view.c
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(258): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(270): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(283): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(296): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(309): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(322): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(343): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(344): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(231): warning C4101: 'i1': unreferenced local variable
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(368): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(408): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(414): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(418): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(538): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ashwin sivakumar\documents\visual studio 2015\projects\motor\engine\src\live_view.c(539): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Engine.vcxproj -> C:\Users\Ashwin Sivakumar\Documents\Visual Studio 2015\Projects\Motor\Debug\Core.lib
